@@ -5,7 +5,7 @@ namespace CodeFights
 {
     public class ConstructSubMatrix
     {
-        public int[][] constructSubmatrix(int[][] matrix, int[] rowsToDelete, int[] columnsToDelete) 
+        public int[][] ConstructSubmatrix(int[][] matrix, int[] rowsToDelete, int[] columnsToDelete) 
         {
             var submatrix = new List<List<int>>();
 
