@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ZigZag
+namespace CodeFights
 {
     class Program
     {
